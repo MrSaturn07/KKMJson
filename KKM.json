@@ -1,0 +1,15 @@
+{
+  "contact": "Discord.gg/KafkaMains",
+  "templates": [
+    {
+      "name": "KafkaMains",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1036398884894822451/1132051530606972938/kafkaplace.png"
+      ],
+      "x": 800,
+      "y": -13
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
